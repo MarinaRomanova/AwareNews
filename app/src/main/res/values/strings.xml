@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">AwareNews</string>
+    <string name="no_internet_connection">There is no internet connection</string>
+    <string name="no_news">No news to display</string>
+    <string name="no_author">No Author</string>
+    <string name="no_author1">No author</string>
+    <string name="thumbnail">Thumbnail</string>
+
+    <string name="title_activity_settings">News Settings</string>
+
+    <string name="settings_order_by_relevance_label">Relevance</string>
+    <string name="settings_order_by_newest_label">Newest</string>
+
+    <string name="settings_order_by_label">Order By</string>
+    <string name="settings_order_by_key" translatable="false">order_by</string>
+    <string name="settings_order_by_default" translatable="false">@string/settings_order_by_newest_value</string>
+    <string name="settings_order_by_relevance_value" translatable="false">relevance</string>
+    <string name="settings_order_by_newest_value" translatable="false">newest</string>
+    <string name="settings_order_by_newest_default">newest</string>
+
+    <string name="settings_topic_default" translatable="false">@string/settings_topic_beach_default</string>
+
+    <string name="beach_label">Beach</string>
+    <string name="diving_label">Diving</string>
+    <string name="hiking_label">Hiking</string>
+    <string name="mountain_label">Mountain</string>
+    <string name="shopping_label">Shopping</string>
+    <string name="food_label">Food</string>
+    <string name="beach_value" translatable="false">beach</string>
+    <string name="diving_value" translatable="false">diving</string>
+    <string name="hiking_value" translatable="false">hiking</string>
+    <string name="mountain_value" translatable="false">mountain</string>
+    <string name="shopping_value" translatable="false">shopping</string>
+    <string name="food_value" translatable="false">food</string>
+    <string name="settings_topic_beach_default">beach</string>
+
+    <string name="settings_topics_key" translatable="false">topic</string>
+    <string name="settings_topics_label">Themes</string>
+
+</resources>

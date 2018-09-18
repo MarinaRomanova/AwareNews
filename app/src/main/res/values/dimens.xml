@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="paddingNormal">12dp</dimen>
+    <dimen name="imageThumbnailSize">80dp</dimen>
+    <dimen name="marginSmall">10dp</dimen>
+    <dimen name="titleTextsizeLarge">18sp</dimen>
+</resources>

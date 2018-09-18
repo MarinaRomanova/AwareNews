@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_order_by_labels">
+        <item>@string/settings_order_by_relevance_label</item>
+        <item>@string/settings_order_by_newest_label</item>
+    </string-array>
+
+    <string-array name="settings_order_by_values">
+        <item>@string/settings_order_by_relevance_value</item>
+        <item>@string/settings_order_by_newest_value</item>
+    </string-array>
+
+    <string-array name="settings_topics_labels">
+        <item>@string/beach_label</item>
+        <item>@string/diving_label</item>
+        <item>@string/hiking_label</item>
+        <item>@string/mountain_label</item>
+        <item>@string/shopping_label</item>
+        <item>@string/food_label</item>
+    </string-array>
+
+    <string-array name="settings_topics_values">
+        <item>@string/beach_value</item>
+        <item>@string/diving_value</item>
+        <item>@string/hiking_value</item>
+        <item>@string/mountain_value</item>
+        <item>@string/shopping_value</item>
+        <item>@string/food_value</item>
+    </string-array>
+
+</resources>
