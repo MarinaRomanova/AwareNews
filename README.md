@@ -27,6 +27,6 @@ User can consult the original article using a browser.
 ![readmore_intent](https://user-images.githubusercontent.com/36896406/45706766-64b9bb80-bb7d-11e8-91d2-1e9529285f27.png)
 
 ## Covered materials:
-- Connecting to an API
-- Parsing the JSON response
-- Using an AsyncTask
+* Connecting to an API
+* Parsing the JSON response
+* Using an AsyncTask
