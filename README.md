@@ -3,7 +3,7 @@ News app using Guardian's API
 
 This Android app was created for the purpose of and assignment in the frame of Android Basics Udacity and Google's course. 
 
-News feed devoted to Travel is regularly updated by parsing responses from Guardian's API - https://content.guardianapis.com/.
+News feed devoted to Travel is regularly updated by parsing responses from Guardian's API - [here](https://content.guardianapis.com/).
 While articles are being loaded an empty view is displayed.
 
 ![awarenews](https://user-images.githubusercontent.com/36896406/45706008-6c786080-bb7b-11e8-9114-4337a6f9da68.png)
