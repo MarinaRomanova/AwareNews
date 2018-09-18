@@ -13,7 +13,7 @@ While articles are being loaded an empty view is displayed.
 ## API
 Please be advised that student's api-key will expire after a certain number of requests sent.
 You can change this parameter at NewsActivity line #101 
-uriBuilder.appendQueryParameter("api-key", "8420c23a-e16b-4122-ba0b-af8d02bcd1bf");
+`uriBuilder.appendQueryParameter("api-key", "8420c23a-e16b-4122-ba0b-af8d02bcd1bf");`
 
 ## Other features
 User can narrow-down the selection using preference screen.
